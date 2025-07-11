@@ -1,0 +1,5 @@
+openai==1.95.0
+chromadb>=1.0.15
+python-dotenv==1.0.1
+colorama==0.4.6
+tqdm==4.66.5 
